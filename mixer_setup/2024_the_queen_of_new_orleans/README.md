@@ -1,1 +1,1 @@
-filenames use this format: $()date --iso-8601=seconds)_scene.scn
+filenames use this format: $(gdate --iso-8601=seconds)_scene.scn
