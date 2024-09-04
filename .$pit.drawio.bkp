@@ -510,7 +510,7 @@
         <mxCell id="QY-T0cnvmU-MhErxxEG2-137" value="DM Stand L" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillStyle=solid;fillColor=#99FF99;" parent="QY-T0cnvmU-MhErxxEG2-140" vertex="1">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QY-T0cnvmU-MhErxxEG2-138" value="DM Stand R" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillStyle=solid;fillColor=#99FF99;" parent="QY-T0cnvmU-MhErxxEG2-140" vertex="1">
+        <mxCell id="QY-T0cnvmU-MhErxxEG2-138" value="DM Stand L" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillStyle=solid;fillColor=#99FF99;" parent="QY-T0cnvmU-MhErxxEG2-140" vertex="1">
           <mxGeometry x="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cX-b-hoBc0UqQH7IcjKB-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" target="QY-T0cnvmU-MhErxxEG2-12">
