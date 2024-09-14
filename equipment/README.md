@@ -21,4 +21,7 @@ Behringer X32 Producer
 
 Behringer S32 Stage Box
 - https://www.behringer.com/product.html?modelCode=0606-ACQ
--
+
+Audio-Technica Wireless Mic Trasmitter & Base Unit (System 10) - (ATW-T1001)
+= https://www.audio-technica.com/en-us/microphones/wireless-systems/line-series/system-10
+- https://docs.audio-technica.com/us/atw_1101_atw_1102_english_web.pdf

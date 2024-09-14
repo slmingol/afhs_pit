@@ -1,0 +1,21 @@
+RF Power Output	    10 mW
+Spurious Emissions	Following federal and national regulations
+Battery Type	    Two 1.5V AA
+Battery Life	    >7 hours (alkaline)
+                    Depending on battery type and use pattern
+Dimensions	        70.2 mm (2.76") W x 107.0 mm (4.21") H x 24.9 mm (0.98") D
+Net Weight	        100 grams (3.5 oz)
+                    without batteries
+
+
+
+
+Overall System
+--------------
+Operating Frequencies           2.4 GHz ISM band (2400 to 2483.5 MHz)
+Frequency Response	            20 Hz to 20 kHz Depending on microphone type
+Operating Range	                30 m (100') typical
+                                Open range environment with no interfering signals
+Total Harmonic Distortion	    <0.05% typical
+Operating Temperature Range	    0° C to +40° C (32° F to 104° F)
+                                Battery performance may be reduced at very low temperatures
