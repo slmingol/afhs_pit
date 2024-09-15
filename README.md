@@ -48,3 +48,4 @@
 
 # References
 - [How To Wrap a Cable the Right Way Over Under]()https://www.youtube.com/watch?v=uKlaXb-fLrg&amp;t=196s_
+- [Getting Started with Behringer X32 Mixer](https://www.youtube.com/watch?v=_UeGxfbSV9U&ab_channel=Sweetwater)
