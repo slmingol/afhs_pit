@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" scale="1" border="10" version="24.7.8">
   <diagram name="Page-1" id="HW7XHMO3FHamhmJ62bom">
-    <mxGraphModel dx="2192" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3757" dy="2765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,17 +58,17 @@
             <mxPoint x="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=5;" edge="1" parent="1" source="YXimCrozZBb8qpPfzFzI-12">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=5;" parent="1" source="YXimCrozZBb8qpPfzFzI-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-26" y="815" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Red/&lt;br&gt;White/&lt;br&gt;Power&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_7Pv6O-6ERaq43pEnpf7-9">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Red/&lt;br&gt;Pink/&lt;br&gt;Power&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_7Pv6O-6ERaq43pEnpf7-9" vertex="1" connectable="0">
           <mxGeometry x="0.3964" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-11" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;/3&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_7Pv6O-6ERaq43pEnpf7-9">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-11" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;/3&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_7Pv6O-6ERaq43pEnpf7-9" vertex="1" connectable="0">
           <mxGeometry x="-0.1606" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -456,65 +456,65 @@
         <mxCell id="7H0Zp5G2dFkvuVMoD0mh-1" value="Other Percussions not part of tech" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=27;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="300" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.008;exitY=0.319;exitDx=0;exitDy=0;strokeWidth=5;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="YXimCrozZBb8qpPfzFzI-12" target="YXimCrozZBb8qpPfzFzI-13">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.008;exitY=0.319;exitDx=0;exitDy=0;strokeWidth=5;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="YXimCrozZBb8qpPfzFzI-12" target="YXimCrozZBb8qpPfzFzI-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="616" y="829.33" as="targetPoint" />
             <mxPoint x="1258" y="829.33" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-13" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Pink/&lt;br&gt;Blue/&lt;br&gt;Power&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_7Pv6O-6ERaq43pEnpf7-12">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-13" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Orange/&lt;br&gt;Blue/&lt;br&gt;Power&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_7Pv6O-6ERaq43pEnpf7-12" vertex="1" connectable="0">
           <mxGeometry x="0.3964" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-14" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;/3&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_7Pv6O-6ERaq43pEnpf7-12">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-14" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;/3&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_7Pv6O-6ERaq43pEnpf7-12" vertex="1" connectable="0">
           <mxGeometry x="-0.1606" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-25" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-25" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="50.00000000000006" y="-8" width="42.79999999999994" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ZF9y9vmVyMKEA1olccpZ-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;MIC #2&lt;/b&gt;&lt;br&gt;SM57&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(Dynamic)&lt;br&gt;Wireless&lt;/span&gt;" style="html=1;verticalLabelPosition=top;align=center;labelBackgroundColor=#ffffff;verticalAlign=bottom;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.microphone;aspect=fixed;labelPosition=center;" parent="_7Pv6O-6ERaq43pEnpf7-25" vertex="1">
           <mxGeometry width="20.8" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-24" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection" vertex="1" parent="_7Pv6O-6ERaq43pEnpf7-25">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-24" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection" parent="_7Pv6O-6ERaq43pEnpf7-25" vertex="1">
           <mxGeometry x="20.79999999999994" y="8" width="22" height="26.19" as="geometry" />
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-27" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-27" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-435" y="-8" width="42.80000000000001" height="52" as="geometry" />
         </mxCell>
         <mxCell id="QY-T0cnvmU-MhErxxEG2-32" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;MIC #1&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;SM57&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(Dynamic)&lt;br&gt;Wireless&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="html=1;verticalLabelPosition=top;align=center;labelBackgroundColor=#ffffff;verticalAlign=bottom;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.microphone;aspect=fixed;labelPosition=center;" parent="_7Pv6O-6ERaq43pEnpf7-27" vertex="1">
           <mxGeometry width="20.8" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-26" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection" vertex="1" parent="_7Pv6O-6ERaq43pEnpf7-27">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-26" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection" parent="_7Pv6O-6ERaq43pEnpf7-27" vertex="1">
           <mxGeometry x="20.80000000000001" y="12.909999999999997" width="22" height="26.19" as="geometry" />
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-29" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-29" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1051" y="-82" width="42.799999999999955" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;MIC #5&lt;/b&gt;&lt;br&gt;Bass Clarinet Solo&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(Dynamic)&lt;br&gt;Wireless&lt;/span&gt;" style="html=1;verticalLabelPosition=top;align=center;labelBackgroundColor=#ffffff;verticalAlign=bottom;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.microphone;aspect=fixed;labelPosition=center;" vertex="1" parent="_7Pv6O-6ERaq43pEnpf7-29">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;MIC #5&lt;/b&gt;&lt;br&gt;Bass Clarinet Solo&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(Dynamic)&lt;br&gt;Wireless&lt;/span&gt;" style="html=1;verticalLabelPosition=top;align=center;labelBackgroundColor=#ffffff;verticalAlign=bottom;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.microphone;aspect=fixed;labelPosition=center;" parent="_7Pv6O-6ERaq43pEnpf7-29" vertex="1">
           <mxGeometry width="20.8" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-28" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection" vertex="1" parent="_7Pv6O-6ERaq43pEnpf7-29">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-28" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection" parent="_7Pv6O-6ERaq43pEnpf7-29" vertex="1">
           <mxGeometry x="20.799999999999955" y="8.909999999999997" width="22" height="26.19" as="geometry" />
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-31" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-31" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1320" y="-8" width="42.799999999999955" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ZF9y9vmVyMKEA1olccpZ-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;MIC #3&lt;/b&gt;&lt;br&gt;SM57&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(Dynamic)&lt;br&gt;Wireless&lt;/span&gt;" style="html=1;verticalLabelPosition=top;align=center;labelBackgroundColor=#ffffff;verticalAlign=bottom;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.microphone;aspect=fixed;labelPosition=center;" parent="_7Pv6O-6ERaq43pEnpf7-31" vertex="1">
           <mxGeometry width="20.8" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-30" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection" vertex="1" parent="_7Pv6O-6ERaq43pEnpf7-31">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-30" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection" parent="_7Pv6O-6ERaq43pEnpf7-31" vertex="1">
           <mxGeometry x="20.799999999999955" y="8" width="22" height="26.19" as="geometry" />
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-33" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-33" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1800" y="-8" width="42.799999999999955" height="52" as="geometry" />
         </mxCell>
         <mxCell id="QY-T0cnvmU-MhErxxEG2-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;MIC #4&lt;/b&gt;&lt;br&gt;SM57&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(Dynamic)&lt;br&gt;Wireless&lt;/span&gt;" style="html=1;verticalLabelPosition=top;align=center;labelBackgroundColor=#ffffff;verticalAlign=bottom;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.microphone;fontSize=12;aspect=fixed;labelPosition=center;" parent="_7Pv6O-6ERaq43pEnpf7-33" vertex="1">
           <mxGeometry width="20.8" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="_7Pv6O-6ERaq43pEnpf7-32" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection" vertex="1" parent="_7Pv6O-6ERaq43pEnpf7-33">
+        <mxCell id="_7Pv6O-6ERaq43pEnpf7-32" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.wireless_connection" parent="_7Pv6O-6ERaq43pEnpf7-33" vertex="1">
           <mxGeometry x="20.799999999999955" y="8" width="22" height="26.19" as="geometry" />
         </mxCell>
       </root>
