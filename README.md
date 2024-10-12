@@ -82,6 +82,7 @@
 - [Miking for barbershop quartets](https://service.shure.com/Service/s/article/miking-for-barbershop-quartets?language=en_US)
 - [HOW TO MIC A CLARINET](https://www.youtube.com/watch?v=Sus6sXow2dg&ab_channel=EATREEDSLEEP)
 - [Rumberger WP-1X Mouthpiece Pickup Reviewed](https://www.youtube.com/watch?v=AItzNPkISOY&ab_channel=EarspasmMusic)
+- [24-BOA-General-Field-Diagram](https://marching.musicforall.org/wp-content/uploads/sites/5/2024/05/24-BOA-General-Field-Diagram.pdf)
 
 ## Equipment BOMs
 - [AFHS Tech BOM Mixer/Synth/Mics Combined](https://docs.google.com/spreadsheets/d/1TcTfvJBVBAX8Il5I2PeyybOIFaD5yT2dXS_1axu-O7I/edit?usp=sharing)
